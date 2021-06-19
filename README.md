@@ -12,3 +12,4 @@ This is a simple linear regression task as it involves just 2 variables.
 Data can be found at https://raw.githubusercontent.com/prakhar2601/The-Sparks-Foundation-GRIP/main/dataset.csv
 You can use R, Python, SAS Enterprise Miner or any other tool.
 What will be predicted score if a student studies for 9.25 hrs/ day?
+
